@@ -1,0 +1,334 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* nav start */
+    .header{
+        padding: 10px 0;
+     }
+    /* logo img soto korchi*/
+    .logo {
+        width: 150px;
+    }
+    .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0 12px !important;
+    }
+    /*nav end */
+    /* banner start */
+    .banner{
+        padding:0 0 60px;
+    }
+    .b_img {
+        margin-bottom: 30px;
+    }
+    .b_img img {
+        padding: 0 50px;
+    }
+    /* banner text */
+    .b_text {
+        text-align: center;
+    }
+    .bh1 {
+        padding: 0 0 0;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .bp2{
+        padding: 0 0px;
+        line-height: 24px;
+    }
+
+    /* banner end */
+    /* feature start here */
+    .feature{
+        padding: 0 0 60px;
+    }
+    .s_feature{
+        margin: 30px 0 0;
+        padding: 45px 0 40px;
+    }
+    .s_img {
+        width: 55px;
+        height: 75px;
+    }
+    .s_h2{
+        margin: 15px 0 0;
+        font-size: 20px;
+    }
+    /* feature end here */
+
+     /* online course start */
+    
+    .s_course {
+        margin: 30px 0px 0;
+        padding: 18px 0 0 22px;
+     }
+    .single_img img {
+        width: 100%;
+    }
+    .single_left ul li img, .single_right ul li img {
+        width: 22px;
+    }
+    .single_left ul li span, .single_right ul li span {
+        font-weight: 400;
+        margin-left: -10px;
+        font-size: 15px;
+    }
+    .single_h2 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    /* online courses end */
+
+
+    /* testinonial start */
+    .testimonial{
+        padding-bottom: 60px;
+     }
+     .c_h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .c_item {
+        margin: 25px 0 0;
+    }
+    .t_img{
+        padding: 0 50px 20px;
+    }
+   
+    .t_text{
+        margin: 10px 0 0;
+        text-align: center;
+    }
+    /* testimonial end */
+       /* footer top start */
+       .footer-top{
+        text-align: center;
+        padding:55px 0 15px;
+     }
+     .ft_info {
+        padding-right: 0px;
+    }
+     /* footer top end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* nav start */
+    .header{
+        padding: 10px 0;
+     }
+    /* logo img soto korchi*/
+    .logo {
+        width: 180px;
+    }
+    .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0 12px !important;
+    }
+    /*nav end */
+    /* banner start */
+    .banner{
+        padding:0 0 60px;
+    }
+    .b_img {
+        margin-bottom: 30px;
+    }
+    .b_img img {
+        padding: 0 50px;
+    }
+    /* banner text */
+    .b_text {
+        text-align: center;
+    }
+    .bh1 {
+        padding: 0 70px 0;
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .bp2{
+        padding: 0 50px;
+        line-height: 24px;
+    }
+
+    /* banner end */
+
+    
+    /* feature start here */
+    .feature{
+        padding: 0 0 60px;
+    }
+    .s_feature{
+        margin: 30px 0 0;
+        padding: 45px 0 40px;
+    }
+    .s_img {
+        width: 55px;
+        height: 75px;
+    }
+    .s_h2{
+        margin: 15px 0 0;
+        font-size: 20px;
+    }
+    /* feature end here */
+
+    /* online course start */
+        /* online courses start */
+    
+    .s_course {
+        margin: 30px 60px 0;
+     }
+    .single_img img {
+        width: 100%;
+    }
+    .single_left ul li img, .single_right ul li img {
+        width: 22px;
+        height: 25px;
+    }
+    .single_h2 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    /* online courses end */
+    /* online course end */
+
+    /* testinonial start */
+    .c_padding{
+        padding-bottom: 60px;
+     }
+     .c_h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .c_item {
+        margin: 30px 0 0;
+    }
+    .t_img{
+        padding: 0 100px 20px;
+    }
+    .t_text{
+        margin: 10px 10px 0;
+        text-align: center;
+    }
+    /* testimonial end */
+      /* footer top start */
+      .footer-top{
+        text-align: center;
+     }
+     .ft_info {
+         padding:0 70px 20px;
+     }
+     /* footer top end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* nav start */
+    .header{
+       padding: 0;
+    }
+    .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0 12px !important;
+    }
+    /*nav end */
+    /* banner start */
+    .b_img {
+        margin-bottom: 30px;
+    }
+    .b_img img {
+        padding: 0 50px;
+    }
+    /* banner text */
+    .b_text {
+        text-align: center;
+    }
+    .bh1 {
+        padding: 0 90px;
+    }
+    .bp2{
+        padding: 0 90px;
+    }
+
+    /* banner end */
+
+    /* feature start here */
+    .feature{
+        padding: 0 0 80px;
+    }
+    /* feature endrt here */
+    /* online courses start */
+    
+.s_course {
+    margin: 40px 100px 0;
+     }
+    .single_img img {
+        width: 100%;
+    }
+    /* online courses end */
+
+    /* testimonial */
+    .c_padding{
+        padding-bottom: 80px;
+    }
+    .c_item {
+        margin: 30px 0 10px;
+    }
+    .t_text{
+        margin-top: 5px;
+    }
+    /* footer top start */
+    .footer-top{
+       text-align: center;
+    }
+    .ft_info {
+        padding:0 80px 30px;
+    }
+    /* footer top end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner start  */
+    .bh1 {
+        padding: 0 20px 0 0;
+    }
+    /* banner end  */
+    /* online course start */
+    .s_course{
+        padding: 24px 9px 25px;
+    }
+    .single_left ul li img, .single_right ul li img {
+        margin-left: -2px;
+        width: 18px;
+    }
+    .single_left ul li span, .single_right ul li span {
+        margin-left: -10px;
+    }
+    /* online course end */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* banner start  */
+    .bh1 {
+        padding: 0 20px 0 0;
+    }
+    /* banner end  */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+    .bh1 {
+        padding: 0 90px 0 0;
+    }
+    /* testimonial start */
+    .t_text{
+        margin-top: 40px;
+     }
+    /* testimonial end */
+    /* footer top start here */
+    .ft_info {
+        margin-right: 130px;
+    }
+    /* footer top end here */
+}
